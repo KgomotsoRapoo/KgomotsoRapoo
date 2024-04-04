@@ -7,7 +7,7 @@ Skills: Python/ Excel/ Photography
 
 - 🔭 I’m currently working on Projects in Python, right now I am working with a loan default project  
 - 🌱 I’m currently learning Complete Data Science and Machine Learning 
-- 👯 I’m looking to collaborate on Banks, Insurance and Financial Companies 
+- 👯 I’m looking to collaborate with Banks, Insurance and Financial Companies 
 - 🤔 I’m looking for help with getting an internship, graduate program or new entry role. 
 - ⚡ Fun fact: I take pictures for fun and coding makes me happy 
 
