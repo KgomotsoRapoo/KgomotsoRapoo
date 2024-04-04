@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Kgomotso from South Africa, and currently I have been learning Complete Data Science and machine Learning
 <!--
 **KgomotsoRapoo/KgomotsoRapoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
