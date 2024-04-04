@@ -1,6 +1,6 @@
-### Hi Stranger 👋, About Me
+### Hi there 👋, About Me
 #### Learn, Grow and Evolve
-![Learn, Grow and Evolve](https://www.linkedin.com/dms/prv/vid/D4D06AQGCxd2x4mdXcg/messaging-attachmentFile/0/1712222863663?m=AQIV7mjzuw5kGAAAAY6of-fWl8J0e0tARhbgifL2DqWrXGjgprjelmGbaA&ne=1&v=beta&t=9rlXdm-RexMUWp320k82ArvoezdG12TCQ1gbAVzBBWY)
+![Learn, Grow and Evolve](https://media.licdn.com/dms/image/D5616AQGNP4un6NIn5A/profile-displaybackgroundimage-shrink_350_1400/0/1709716971067?e=1717632000&v=beta&t=098v5MbCF0COtYpaoy9-JBrSVPCKXTIegewHU8rryPY)
 
 I'm Kgomotso Rapoo from South Africa, and currently I have been learning Complete Data Science and Machine Learning. I am also hoping to get a job in Data Science
 
@@ -14,6 +14,7 @@ Skills: Python/ Excel/ Photography
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/rapooplk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/rapoo101/)  
+
 
 
 
