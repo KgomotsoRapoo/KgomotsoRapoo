@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Kgomotso from South Africa, and currently I have been learning Complete Data Science and machine Learning
+I'm Kgomotso from South Africa, and currently I have been learning Complete Data Science and Machine Learning
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgomotsorapoo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KgomotsoRapoo/KgomotsoRapoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
