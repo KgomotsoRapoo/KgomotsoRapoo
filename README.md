@@ -1,6 +1,5 @@
 ### Hi there 👋, About Me
-#### Learn, Grow and Evolve
-![Learn, Grow and Evolve](https://drive.google.com/file/d/1tw7JTYQsmnkekd6iCmqjlLSCZMhcuxgc/view?usp=drive_link)
+![](https://media.licdn.com/dms/image/D4D22AQEpDviqo8ZNCw/feedshare-shrink_800/0/1712225268373?e=1715212800&v=beta&t=CuenbbuLaREj_Q2PksRi-jknDhw-dyILyjVqwV3OVZ4)
 
 I'm Kgomotso Rapoo from South Africa, and currently I have been learning Complete Data Science and Machine Learning. I am also hoping to get a job in Data Science
 
