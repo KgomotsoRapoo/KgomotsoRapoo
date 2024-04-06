@@ -1,11 +1,18 @@
 ### Hi there 👋, About Me
 ![](https://media.licdn.com/dms/image/D4D22AQEpDviqo8ZNCw/feedshare-shrink_800/0/1712225268373?e=1715212800&v=beta&t=CuenbbuLaREj_Q2PksRi-jknDhw-dyILyjVqwV3OVZ4)
 
-I'm Kgomotso Rapoo from South Africa, and currently I have been learning Complete Data Science and Machine Learning. I am also hoping to get a job in Data Science
+I'm Kgomotso Rapoo from South Africa, and currently I have been learning Complete Data Science and Machine Learning. I am also hoping to get a job in Data Science, so in the mean time I'll just Learn, Evolve And Grow
+
 ## My Education Background
 - Postgraduate Diploma : Risk management from University of South Africa | Pretoria, South Africa
 - Bachelor of Commerce : Mathematical Sciences fromStellenbosch University | Stellenbosch, South Africa
 
+## Certificates
+- Bachelor of Commerce (Mathematical Sciences) degree
+- SAS Programming 1: EssentiaLS
+- SAS Programming 2: Data Manipulation Techniques
+- Umalusi (National Senior Certificate)
+  
 ## Skills:
 - Python
 - Excel
@@ -17,7 +24,7 @@ I'm Kgomotso Rapoo from South Africa, and currently I have been learning Complet
 - Highly motivated, Adaptive and Attention to detail
 - Team player, take ownership and innovative
 - Analytical, problem-solving, monitoring and checking for accuracy.
-
+## Purpose
 - 🔭 I’m currently working on Projects in Python, right now I am working with a loan default project  
 - 🌱 I’m currently learning Complete Data Science and Machine Learning 
 - 👯 I’m looking to collaborate on Banks, Insurance and Financial Companies 
